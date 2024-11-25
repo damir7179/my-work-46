@@ -1,0 +1,12 @@
+.box{
+    border: solid black 2px;
+    width: 600px;
+    height: 70px;
+    background-color: green
+}
+.big{
+    border: solid black 2px;
+    width: 600px;
+    height: 70px;
+    background-color: aquamarine;
+}
